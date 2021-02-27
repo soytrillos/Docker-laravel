@@ -1,3 +1,5 @@
+Crear carpeta mysql ya que GitHub la borra
+
 Subir docker
     -> docker-compose up -d
 -> ip:8888/
