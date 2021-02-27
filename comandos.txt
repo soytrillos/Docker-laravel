@@ -1,0 +1,10 @@
+Subir docker
+    -> docker-compose up -d
+-> ip:8888/
+docker-compose logs -f
+docker-compose ps
+Bajar docker
+    -> docker-compose down
+
+Comandos artisan
+    -> docker-compose exec php php /var/www/html/artisan migrate
