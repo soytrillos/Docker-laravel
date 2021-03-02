@@ -10,3 +10,5 @@ Bajar docker
 
 Comandos artisan
     -> docker-compose exec php php /var/www/html/artisan migrate
+
+
