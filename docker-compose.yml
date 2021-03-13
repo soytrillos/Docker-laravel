@@ -1,8 +1,7 @@
-version: "3.7"
-
+version: "3.3"
 services: 
   nginx: 
-    images: nginx:stable-alpine
+    image: nginx:stable-alpine
     container_name: nginx
     restart: always
     ports: 
